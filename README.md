@@ -1,7 +1,7 @@
 # Anomalies_Detection
 Basic implementation of time-series anomalies detection using forecasting, Kleinburg's Algorithm for Burst Detection, and Pytorch implementation of Autoencoder.
 
-[Slides](https://drive.google.com/file/d/1r99mNGhHtQB4bZCeBgvtUFTua1qXgfQB/view?usp=sharing)
+[Slides for Shopee x Data Science BKK](https://drive.google.com/file/d/1r99mNGhHtQB4bZCeBgvtUFTua1qXgfQB/view?usp=sharing)
 
 Repository for [Shopee x Data Science BKK] and [DSSG x Data Science BKK]
 * `Anomalies_Detection.ipynb` - notebook for workshop
