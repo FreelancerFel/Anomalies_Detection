@@ -3,7 +3,7 @@ Basic implementation of time-series anomalies detection using forecasting, Klein
 
 [Slides](https://drive.google.com/file/d/1r99mNGhHtQB4bZCeBgvtUFTua1qXgfQB/view?usp=sharing)
 
-Repository for [Shopee x Data Science BKK]
+Repository for [Shopee x Data Science BKK] and [DSSG x Data Science BKK]
 * `Anomalies_Detection.ipynb` - notebook for workshop
 * `datasets/` - Example data from Numenta Anomaly Benchmark (https://github.com/numenta/NAB)
 
